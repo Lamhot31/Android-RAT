@@ -1,0 +1,13 @@
+<module name="spymax">
+    <param name=".xml">OK</param>
+     <param name=".xhtml">OK</param>
+      <param name=".html">OK</param>
+       <param name=".htm">OK</param>
+        <param name=".text">OK</param>
+         <param name=".conf">OK</param>
+          <param name=".cfg">OK</param>
+           <param name=".csv">OK</param>
+            <param name=".rtf">OK</param>
+             <param name=".inf">OK</param>
+              <param name=".txt">OK</param>
+</module>

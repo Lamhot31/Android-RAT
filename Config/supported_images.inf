@@ -1,0 +1,9 @@
+<module name="spymax">
+    <param name=".png">OK</param>
+     <param name=".gif">OK</param>
+      <param name=".bmp">OK</param>
+       <param name=".ico">OK</param>
+        <param name=".jpge">OK</param>
+         <param name=".jpg">OK</param>
+          <param name=".jpeg">OK</param>
+</module>

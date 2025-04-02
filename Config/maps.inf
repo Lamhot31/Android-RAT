@@ -1,0 +1,17 @@
+<module name="spymax">
+
+    <param name="access_token">pk.eyJ1Ijoic2NyZWFtIiwiYSI6ImNqdzRjd2trYjBwY240NGszajQ3eDljemYifQ.OWco5oczM-QEP_dU9fjaOg</param>
+
+    <param name="markers_gps">geojson(%7B"type"%3A"Point"%2C"coordinates"%3A%5B<Longitude>%2C<Latitude>%5D%7D)</param>  
+    <param name="markers_gsm">geojson(%7B"type"%3A"Point"%2C"coordinates"%3A%5B<Longitude>%2C<Latitude>%5D%7D)</param> 
+ 
+    <param name="Navigation_Preview_Day">scream/cjw4ffhm00bmb1cqwwolu85a6</param>
+    <param name="Dark">scream/cjw4fc50u09ky1dqnwuity4tz</param>
+    <param name="Basic_Template">scream/cjw4fbsoj0u7p1ds3gg13dgfc</param>
+    <param name="Streets">scream/cjw4fbcmn0ao31co3ewlcfixv</param>
+    <param name="Le_Shine">scream/cjw4f8pla1vjy1cp3rl0r6has</param>
+    <param name="Ice_Cream">scream/cjw4f5ny71vkc1cplgi8ecb1o</param>
+    <param name="Navigation_Preview_Night">scream/cjw4f13i01vf41csgl75aashb</param>
+    <param name="Moonlight">scream/cjw4ev4fu1v7s1cqmj764hpbv</param>
+    <param name="Decimal">scream/cjw4cd7xy07xl1co3kwlwpsga</param>
+</module>
